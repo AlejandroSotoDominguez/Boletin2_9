@@ -17,9 +17,9 @@ public class Boletin2_9 {
         b5 = ((euros%100)%20)/5;
         b1 = euros%100%20%5;
         System.out.println(b100 + " billetes de 100");
-        System.out.println(b20 + " billetes de 100");
-        System.out.println(b5 + " billetes de 100");
-        System.out.println(b1 + " billetes de 100");
+        System.out.println(b20 + " billetes de 20");
+        System.out.println(b5 + " billetes de 5");
+        System.out.println(b1 + " monedas");
     }
     
 }
